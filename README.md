@@ -5,7 +5,7 @@ I am a Full Stack developer.
 --------------------------
 
 *   🌍  I'm based in Fort Worth,Texas
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href=;'https://64692c700a7b5b6a6d8a0210--stunning-beignet-d3286c.netlify.app/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://64692c700a7b5b6a6d8a0210--stunning-beignet-d3286c.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning Java
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
