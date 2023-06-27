@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Castillo
 ========================================================================================================================================
 
-I am a Full Stack developer.
+Finance Professional and Full-Stack Engineer: Bridging the Gap Between Finance and Technology.
 --------------------------
 
 *   🌍  I'm based in Fort Worth,Texas
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://64692c700a7b5b6a6d8a0210--stunning-beignet-d3286c.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning Java
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   🤝  I'm open to collaborating on interesting projects
 
 #### Programming Langauges:
 
